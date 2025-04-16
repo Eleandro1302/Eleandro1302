@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Eleandro 😁
+## Welcome to the profile of the  Eleandro 😁
 
  <div>
    <a href="https://github.com/eleandro1302">
@@ -15,7 +15,7 @@
   
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### For content about programming follow me on the networks below! 
  
 <div> 
   <a href="https://instagram.com/eleandro1302" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
