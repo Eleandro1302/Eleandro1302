@@ -1,0 +1,43 @@
+<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root {
+      --cb: #1b1f230a;
+      --cs: purple;
+      --ce: #ebedf0;
+      --c0: #ebedf0;
+      --c1: #9be9a8;
+      --c2: #40c463;
+      --c3: #30a14e;
+      --c4: #216e39;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --cb: #1b1f230a;
+        --cs: purple;
+        --ce: #161b22;
+        --c1: #01311f;
+        --c2: #034525;
+        --c3: #0f6d31;
+        --c4: #00c647;
+      }
+    }
+
+    .c {
+      shape-rendering: geometricPrecision;
+      rx: 2;
+      ry: 2;
+      fill: var(--ce);
+      stroke-width: 1px;
+      stroke: var(--cb);
+      animation: none 98100ms linear infinite;
+    }
+
+    /* Adicione animações e estilos adicionais aqui */
+  </style>
+
+  <rect class="c c0" x="2" y="2" width="12" height="12" />
+  <rect class="c c1" x="2" y="18" width="12" height="12" />
+  <rect class="c c2" x="2" y="34" width="12" height="12" />
+  <!-- Adicione os outros elementos <rect> aqui -->
+</svg>
